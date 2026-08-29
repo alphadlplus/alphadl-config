@@ -1,7 +1,8 @@
 {
-  "api": "https://myalphadl.site",
+  "api": "https://myalphadl.com",
   "candidates": [
-    "https://myalphadl.site"
+    "https://myalphadl.site",
+    "https://myalphadl.com"
   ],
   "updated": "2026-08-29"
 }
